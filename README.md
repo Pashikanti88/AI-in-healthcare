@@ -1,2 +1,2 @@
-# AI-in-healthcare
+# AI-in-healthcare-CNN
 Arrhythmia classiifcation using intelligent techniques
